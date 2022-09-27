@@ -15,7 +15,7 @@ PL1=log_dist_pl(1800*10^6,100,2,d); %n=2
 PL2=log_dist_pl(1800*10^6,100,3,d); %n=3
 
 
-subplot(132),semilogx(d,PL1),grid on,title('log distance path loss model'),xlabel('distance[m]'),ylabel('path loss [dB]')
+semilogx(d,PL1),grid on,title('log distance path loss model'),xlabel('distance[m]'),ylabel('path loss [dB]')
 hold on
 semilogx(d,PL2),
 legend('n=2','n=3')
