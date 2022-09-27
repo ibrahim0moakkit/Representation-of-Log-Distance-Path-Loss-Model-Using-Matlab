@@ -1,4 +1,4 @@
-# Representation-of-Log-Distance-Path-Loss-Model-Using-Matlab
+# Log_Distance_Path_Loss_Model_Representation_Using_Matlab
 Matlab code for log distance path loss model
 
 
